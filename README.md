@@ -1,5 +1,5 @@
 # Todo
-I am Mathews Jacob, trying out an Android
+I am Mathews Jacob, trying out an Android Todo
 Conceptual Overview
 Generate Second Screen - Generate a new UI screen (activity) that we will use for the edit screen. Let's generate a second activity to be used as an edit form for an item. Generate the second activity by selecting File => New => Activity => Blank Activity and go through the wizard to generate the blank activity. Give the activity a descriptive name i.e EditItemActivity
 Layout Edit Form - Let's setup the view for the EditItemActivity by going to res/layout/activity_edit_item.xml. Here, using the graphical editor, we need to add a multi-line text field for the item body and a save button to submit the updated text value.
